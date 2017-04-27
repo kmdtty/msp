@@ -1,0 +1,1 @@
+-- average: computes the average of all numbers in a list
